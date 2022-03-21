@@ -1,0 +1,42 @@
+Créer un compte sur  https://openweathermap.org/
+
+Aller dans le menu API keys pour voir sa clé API
+
+Description de l'url
+
+https://api.openweathermap.org/data/2.5/weather?q=paris&appid=1c060e144d6d64ff968d2638e4fb1b77&units=metric
+
+q - pour spécifier la ville
+
+appid - pour spécifier votre clé secrète
+
+units - pour spécifier que nous voulons la température en Celsius
+
+
+Guide api
+
+https://openweathermap.org/current
+
+
+Pour notre cas on va utiliser ce lien
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}&units=metric
+
+
+https://stackoverflow.com/questions/44177417/how-to-display-openweathermap-weather-icon
+
+//////////////////////////////////// Partie geoloc//////////////////////////////////// 
+
+// dans cette partie , nous allons récupérer la géolocalisation de notre ville et affiché la météo au premier chargement de la page
+
+
+
+
+
+
+
+
+
+
+
+
+
